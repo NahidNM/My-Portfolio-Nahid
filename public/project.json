@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Toy Marketplace",
+        "description": "An API that facilitates buying and selling of various toys and collectibles, connecting buyers and sellers in an online marketplace.",
+        "image": "https://example.com/toy-marketplace.jpg"
+      },
+      {
+        "name": "Chef Recipe Hunter",
+        "description": "An API that provides access to a wide range of chef recipes for various cuisines and dishes.",
+        "image": "https://example.com/chef-recipe-hunter.jpg"
+      },
+      
+      {
+        "name": "Summer Sports Camp",
+        "description": "An API that provides information about summer sports camps for children and teenagers, including schedules, locations, and activities.",
+        "image": "https://example.com/summer-sports-camp.jpg"
+      },
+      {
+        "name": "Classy Semolina",
+        "description": "An API that offers sophisticated recipes and cooking techniques using semolina as the main ingredient.",
+        "image": "https://example.com/classy-semolina.jpg"
+      }     
+]

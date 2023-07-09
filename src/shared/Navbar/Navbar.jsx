@@ -3,15 +3,16 @@
 const Navbar = () => {
     
     const navList = <>
-        <li><a>Home</a></li>
-        <li><a>skils</a></li>
-        <li><a>Project</a></li>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#skills">skils</a></li>
+        <li><a href="#project">Project</a></li>
+        <li><a href="#contract">contract</a></li>
         </>
        
         
     
     return (
-        <div className="navbar bg-base-100">
+        <div className="fixed z-10 mx-auto navbar bg-base-100 max-w-7xl">
   <div className="navbar-start">
     <div className="dropdown">
       <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -21,15 +22,12 @@ const Navbar = () => {
         {navList}
       </ul>
     </div>
-    <h1 className="ormal-case gtext-xl">Nahid</h1>
+    <h1 className="text-xl font-bold text-transparent normal-case bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">Md. Nahid Hasan</h1>
   </div>
   <div className="hidden navbar-center lg:flex">
     <ul className="px-1 font-semibold menu menu-horizontal bg-slate-500 rounded-2xl">
       {navList}
     </ul>
-  </div>
-  <div className="navbar-end">
-    <a className="btn">Button</a>
   </div>
 </div>
     );

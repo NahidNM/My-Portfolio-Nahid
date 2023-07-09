@@ -1,0 +1,68 @@
+[
+    {
+      "skill": "HTML",
+      "image": "https://i.ibb.co/FmKqN6X/html.jpg",
+      "percentage": 90
+    },
+    {
+      "skill": "CSS",
+      "image": "https://i.ibb.co/cxLGM59/css.png",
+      "percentage": 85
+    },
+    {
+      "skill": "Bootstrap",
+      "image": "https://i.ibb.co/p2hsFjM/boostrap.png",
+      "percentage": 80
+    },
+    {
+      "skill": "Tailwind CSS",
+      "image": "https://i.ibb.co/tBcKdpd/download.png",
+      "percentage": 75
+    },
+    {
+      "skill": "JavaScript",
+      "image": "https://i.ibb.co/Rpq9vJt/js.png",
+      "percentage": 95
+    },
+    {
+      "skill": "React",
+      "image": "https://i.ibb.co/HNR6mks/logo-react-icon.png",
+      "percentage": 90
+    },
+    {
+      "skill": "Firebase",
+      "image": "https://i.ibb.co/BjMLbMb/firebase.png",
+      "percentage": 85
+    },
+    {
+      "skill": "Node.js",
+      "image": "https://i.ibb.co/TBbVF6T/node.png",
+      "percentage": 80
+    },
+    {
+      "skill": "Express.js",
+      "image": "https://i.ibb.co/s3qX0kN/express.png",
+      "percentage": 75
+    },
+    {
+      "skill": "MongoDB",
+      "image": "https://i.ibb.co/ZBxdJKf/mongodb.jpg",
+      "percentage": 85
+    },
+    {
+      "skill": "Git",
+      "image": "https://i.ibb.co/yX45pMD/git.png",
+      "percentage": 90
+    },
+    {
+      "skill": "Next.js",
+      "image": "https://i.ibb.co/gDGTPH4/next.png",
+      "percentage": 80
+    },
+    {
+      "skill": "Netlify",
+      "image": "https://i.ibb.co/HBthCWt/free-netlify-3629537-3032320.webp",
+      "percentage": 75
+    }
+  ]
+  
